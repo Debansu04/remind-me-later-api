@@ -14,10 +14,3 @@ This is a Django REST API that allows users to create reminders by specifying a 
 - Django 4.x
 - Django REST Framework
 
-## 🚀 Setup Instructions
-
-1. **Clone the repository**
-
-```bash
-git clone https://github.com/Debansu04/remind-me-later-api.git
-cd remind-me-later-api
